@@ -4,8 +4,8 @@ Project Overview
 This project aims to develop and evaluate various machine learning models for the detection of heart disease. Utilizing a dataset comprised of clinical and physiological parameters, models such as K-Nearest Neighbors (KNN), Decision Tree, Logistic Regression, Random Forest, and a Neural Network have been applied and assessed for their performance.
 
 Table of Contents
-  •	Installation
-  •	Usage
+  *	Installation
+  *	Usage
   •	Dataset
   •	Models
   •	Results

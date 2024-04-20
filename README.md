@@ -53,6 +53,6 @@ Future Work:
 
 Future enhancements will focus on integrating more complex models, exploring real-time data implementation, and expanding the dataset to include more diverse demographics.
 
-Contributing:
+Contribution:
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
